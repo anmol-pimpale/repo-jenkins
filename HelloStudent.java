@@ -5,6 +5,7 @@ public class HelloStudent  {
         System.out.println("Hello,  Anmol" );
         System.out.println("Welcome to CDAC" );
         System.out.println("Welcome to ditiss" );
+        System.out.println("Welcome to DITISS" );
 
     }
 }
